@@ -1,0 +1,19 @@
+
+
+.bg{
+  background-color: grey;
+  height: 200px;
+}
+
+
+.bg1{
+  background-color: grey;
+  height: 200px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+margin-top: 18px;
+}
+p{
+  text-align: center;
+}
