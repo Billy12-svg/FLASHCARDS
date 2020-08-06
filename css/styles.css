@@ -1,4 +1,3 @@
-body{
-    background-color: blue;
-    background-image: url(../background-images/download.jpeg)
+.card{
+    border: groove;
 }
