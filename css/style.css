@@ -4,3 +4,9 @@
   background-repeat: no-repeat;
   background-size: 100%;
 }
+.car{
+  text-align: center;
+  background-image: url(../background-images/pngtree-julie-super-super-sports-car-show-poster-background-image_143925.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
