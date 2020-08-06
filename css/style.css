@@ -3,6 +3,11 @@
   width: 800px;
   padding-left: 150px;
   padding-top: 50px;
+  background-image: url(../background-images/website-background-ideas.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: max-content;
+  height: max-content;
 }
 
 #home{
@@ -17,5 +22,5 @@
 
 .car{
   background-image: url(../background-images/pngtree-julie-super-super-sports-car-show-poster-background-image_143925.jpg);
-  
+
 }
