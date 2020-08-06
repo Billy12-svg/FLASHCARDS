@@ -1,6 +1,11 @@
+
+
 $(document).ready(function () {
- // car
-  $("#car").click(function() {
+  // car
+  $().click(function() {
+    $().hide()
+  });
+  $("#car").click(function () {
     $("#carQ1").show()
   });
   $("#carQ1").click(function () {
@@ -23,8 +28,8 @@ $(document).ready(function () {
     $("#carA5").show()
   });
 
-//instruments
-  $("#instruments").click(function() {
+  //instruments
+  $("#instruments").click(function () {
     $("#instQ1").show()
   });
 
@@ -40,7 +45,7 @@ $(document).ready(function () {
     $("#instA3").show()
   });
 
-  $("#instQ4").click(function(){
+  $("#instQ4").click(function () {
     $("#instA4").show()
   });
 
@@ -50,7 +55,7 @@ $(document).ready(function () {
 
   //sports
 
-  $("#sports").click(function() {
+  $("#sports").click(function () {
     $("#spQ1").show()
   });
 
@@ -76,7 +81,7 @@ $(document).ready(function () {
 
   //computer
 
-  $("#computer").click(function() {
+  $("#computer").click(function () {
     $("#compQ1").show()
   });
 
@@ -102,7 +107,7 @@ $(document).ready(function () {
 
   //programming
 
-  $("#programming").click(function() {
+  $("#programming").click(function () {
     $("#progQ1").show()
   });
 
@@ -128,7 +133,7 @@ $(document).ready(function () {
 
   //general knowledge
 
-  $("#general").click(function() {
+  $("#general").click(function () {
     $("#genQ1").show()
   });
 

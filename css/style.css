@@ -1,7 +1,8 @@
 .about{
   text-align: center;
 }
-
-.trivia{
-  display: none;
+/*
+.holder{
+  display: block;
+  visibility: hidden;
 }
