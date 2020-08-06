@@ -17,6 +17,20 @@ ul{
 ol{
     list-style: none;
 }
+.sport{
+  text-align: center;
+  background-image: url(../background-images/5a44c7559fd3c_thumb900.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: 70%;
+  color:white;
+  position: relative;
 
+}
  
+.sport p{
+    position: absolute;
+
+
+}
 
