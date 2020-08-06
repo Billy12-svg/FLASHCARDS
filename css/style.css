@@ -1,9 +1,7 @@
 .about{
-    text-align: center;
+  text-align: center;
 }
-body{
-  background-image: url(../background-images/download\ \(3\).jpeg);
-  background-repeat: no-repeat;
-  max-width: 100%;
-  background-size: cover;
- }
+
+/* .holder{
+  display: none;
+} */
