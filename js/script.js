@@ -149,7 +149,7 @@ $(document).ready(function () {
   });
 
   $("#genQ5").click(function () {
-    $$("#genA5").show()
+    $("#genA5").show()
   });
 
 
