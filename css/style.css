@@ -1,4 +1,6 @@
-about{
+.about{
     text-align: center;
-    background-image: url(../background-images/download\ \(3\).jpeg)
+}
+body{
+  background-image: url(../background-images/images\ \(2\).jpeg)
 }
