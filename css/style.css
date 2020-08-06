@@ -1,18 +1,5 @@
 .about{
   text-align: center;
-<<<<<<< HEAD
-  background-image: url(../background-images/download\ \(3\).jpeg);
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
-/* .car{
-  text-align: center;
-  background-image: url(../background-images/pngtree-auto-show-poster-background-material-image_138690.jpg);
-  background-repeat: no-repeat;
-  background-position:;
-  background-size: 100%
-} */
-=======
   width: 800px;
   padding-left: 150px;
   padding-top: 50px;
@@ -27,4 +14,8 @@
   border: 1px 
   
 }
->>>>>>> 30f3e132176a56ff3d7d3e8c90cce62aa7d3bcec
+
+.car{
+  background-image: url(../background-images/pngtree-julie-super-super-sports-car-show-poster-background-image_143925.jpg);
+  
+}

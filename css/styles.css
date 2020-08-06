@@ -13,7 +13,11 @@
     text-align: center;
     color: #fff;
 }
-
+.card{
+    border: groove;
+    border-radius: 20px;
+    width: 500px;
+}
 ul{
     list-style: none;
   }
@@ -31,9 +35,7 @@ ol{
 
 }
  
-.sport p{
-    position: absolute;
 
 
-}
+
 
