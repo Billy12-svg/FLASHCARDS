@@ -1,5 +1,6 @@
 .about{
   text-align: center;
+<<<<<<< HEAD
   background-image: url(../background-images/download\ \(3\).jpeg);
   background-repeat: no-repeat;
   background-size: 100%;
@@ -11,3 +12,19 @@
   background-position:;
   background-size: 100%
 } */
+=======
+  width: 800px;
+  padding-left: 150px;
+  padding-top: 50px;
+}
+
+#home{
+  width: 600px;
+  text-align: center;
+  margin-top: 100px;
+  padding-left: 50px;
+  margin-left: 200px;
+  border: 1px 
+  
+}
+>>>>>>> 30f3e132176a56ff3d7d3e8c90cce62aa7d3bcec
