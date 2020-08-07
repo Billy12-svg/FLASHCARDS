@@ -2,8 +2,9 @@
   text-align: center;
   width: 500px;
   padding-left: 50px;
-  padding-top: 300px;
-  
+  padding-top: 200px;
+  background-size: cover ;
+  background-image: url(../background-images/website-background-ideas.jpg);
   
 
   
@@ -15,7 +16,10 @@
   margin-top: 100px;
   padding-left: 50px;
   margin-left: 200px;
-  border: 1px 
+  border: 1px;
+  background-image: url(../background-images/download\ \(2\).jpeg);
+  background-size: cover;
+  
   
 }
 
