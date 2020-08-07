@@ -1,13 +1,10 @@
 .about{
   text-align: center;
-  width: 500px;
-  padding-left: 50px;
-  padding-top: 200px;
+  padding-left: 110px;
+  padding-top: 100px;
   background-size: cover ;
-  background-image: url(../background-images/website-background-ideas.jpg);
-  
-
-  
+  font-size: 28px;
+  border: solid black;
 }
 
 #home{
@@ -15,19 +12,34 @@
   text-align: center;
   margin-top: 100px;
   padding-left: 50px;
-  margin-left: 200px;
+  margin-left: 350px;
   border: 1px;
-  background-image: url(../background-images/download\ \(2\).jpeg);
-  background-size: cover;
-  
-  
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .car{
   background-image: url(../background-images/pngtree-julie-super-super-sports-car-show-poster-background-image_143925.jpg);
+  background-size: cover;
 
 }
 
 .topic{
   background-image: url(../background-images/technology-background--digital-hand.jpg);
+}
+
+.hom{
+  background-image: url(../background-images/website-background-ideas.jpg);
+  background-size: cover;
+
+}
+
+.abt{
+  background-image: url(../background-images/computer-technology-background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: beige;
+
+  
+
 }
