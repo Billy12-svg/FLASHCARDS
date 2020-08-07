@@ -1,6 +1,62 @@
 .about{
     border: groove;
-    background-color: blue;
-    background-image: url(images/tree-736885_1280.jpg);
-    }
+    border-radius: 20px;
+    width: 500px;
+}
+.holder{
+    background-color: #7E9E9E;
+    height: 250px;
+    margin-top: 20px;
+    border-bottom: 2px solid #fff;
+    border-radius: 30px;
+    padding: 30px;
+    text-align: center;
+    color: #fff;
+}
+.card{
+    border: groove;
+    border-radius: 20px;
+    width: 500px;
+}
+ul{
+    list-style: none;
+  }
+ol{
+    list-style: none;
+}
+.sport{
+  text-align: center;
+  background-image: url(../background-images/sports-faith-background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: 70%;
+  color:black;
+  position: relative;
+
+}
+ 
+.comp{
+    background-image: url(../background-images/technology-background--digital-hand.jpg);
+}
+
+.prog{
+    background-image: url(../background-images/abstract-technology-background-vector-8119198.jpg);
+}
+
+.gen{
+    background-image: url(../background-images/5-unique-study-abroad.jpg);
+    color: black;
+}
+
+
+.inst{
+    background-image: url(../background-images/images\ \(2\).jpeg);
+    background-repeat: round;
+
+}
+.topic{
+    background-image: url(../background-images/technology-background--digital-hand.jpg);
+}
+
+
 

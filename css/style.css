@@ -1,4 +1,33 @@
-about{
-    text-align: center;
-    background-image: url()
+.about{
+  text-align: center;
+  width: 500px;
+  padding-left: 50px;
+  padding-top: 200px;
+  background-size: cover ;
+  background-image: url(../background-images/website-background-ideas.jpg);
+  
+
+  
+}
+
+#home{
+  width: 600px;
+  text-align: center;
+  margin-top: 100px;
+  padding-left: 50px;
+  margin-left: 200px;
+  border: 1px;
+  background-image: url(../background-images/download\ \(2\).jpeg);
+  background-size: cover;
+  
+  
+}
+
+.car{
+  background-image: url(../background-images/pngtree-julie-super-super-sports-car-show-poster-background-image_143925.jpg);
+
+}
+
+.topic{
+  background-image: url(../background-images/technology-background--digital-hand.jpg);
 }
